@@ -5,7 +5,7 @@ keep_going = 'y'
 while keep_going == 'y':
     # ---------------------------------------------
     # ---------------------------------------------
-    # Program code assignment 2_1
+    # Program code assignment 3_1
     # ---------------------------------------------]
     # ---------------------------------------------
     # Create a variable start with 0
@@ -24,7 +24,8 @@ while keep_going == 'y':
     print (f'Number of times the letter "T" or "t" appears in the string: {count}')
 
 
-    #print(my_string_lower)
+    # ---------------------------------------------
+    # ---------------------------------------------
 
     # See if the user wants to do another action
     keep_going = input('Do you want to perform another action? (Enter y for yes): ')
