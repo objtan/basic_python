@@ -13,16 +13,20 @@ while keep_going == 'y':
 
     # Enter a string
     my_string = input('Enter s string: ')
+
+    # Use loop to count
+    for substring in my_string:
+        if substring == 't' or substring == 'T':
+            count += 1
+    print (f'Number of times the letter "T" or "t" appears in the string: {count}')
+
+    # ---------------------------------------------
     
     # Convert the string you just entered to lowercase
     my_string_lower = (my_string.lower())
 
-    # Use loop to count
-    for substring in my_string_lower:
-        if substring == 't':   # If not convert the string (line 18,19) then use code " if substring == 'T' or substring =='t'"
-            count += 1
-    print (f'Number of times the letter "T" or "t" appears in the string: {count}')
-
+    # use count() menthod (don't use loop)
+    print ('Number of times the letter "T" or "t" appears in the string:',my_string_lower.count('t'))
 
     # ---------------------------------------------
     # ---------------------------------------------
