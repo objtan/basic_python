@@ -1,0 +1,140 @@
+{
+    "results": [
+        {
+            "fsq_id": "4b57db05f964a520fb4328e3",
+            "categories": [
+                {
+                    "id": 16037,
+                    "name": "Playground",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 61,
+            "geocodes": {
+                "main": {
+                    "latitude": 35.666302,
+                    "longitude": 139.775754
+                },
+                "roof": {
+                    "latitude": 35.666302,
+                    "longitude": 139.775754
+                }
+            },
+            "link": "/v3/places/4b57db05f964a520fb4328e3",
+            "location": {
+                "address": "築地7丁目19-1",
+                "country": "JP",
+                "cross_street": "",
+                "formatted_address": "築地7丁目19-1, 中央区, Tokyo, 104-0045",
+                "locality": "Tokyo",
+                "neighborhood": [
+                    "Ginza / Tokyo Nihonbashi"
+                ],
+                "postcode": "104-0045",
+                "region": "Tokyo"
+            },
+            "name": "Akatsuki Park (あかつき公園)",
+            "related_places": {
+                "children": [
+                    {
+                        "fsq_id": "4dd72f80d1647fcf3e455cfb",
+                        "name": "あかつき公園冒険広場"
+                    },
+                    {
+                        "fsq_id": "5135cdbfe4b01860cd7f1a59",
+                        "name": "中央区平和都市宣言碑"
+                    }
+                ]
+            },
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4bc1b57b4cdfc9b637f99421",
+            "categories": [
+                {
+                    "id": 13276,
+                    "name": "Sushi Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/sushi_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 176,
+            "geocodes": {
+                "main": {
+                    "latitude": 35.664741,
+                    "longitude": 139.774537
+                },
+                "roof": {
+                    "latitude": 35.664741,
+                    "longitude": 139.774537
+                }
+            },
+            "link": "/v3/places/4bc1b57b4cdfc9b637f99421",
+            "location": {
+                "address": "築地6丁目13-3",
+                "country": "JP",
+                "cross_street": "",
+                "formatted_address": "築地6丁目13-3, 中央区, Tokyo, 104-0045",
+                "locality": "Tokyo",
+                "postcode": "104-0045",
+                "region": "Tokyo"
+            },
+            "name": "築地 すし大別館",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        },
+        {
+            "fsq_id": "4c3446c4ed37a593819e6e03",
+            "categories": [
+                {
+                    "id": 13003,
+                    "name": "Bar",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+                        "suffix": ".png"
+                    }
+                },
+                {
+                    "id": 13263,
+                    "name": "Japanese Restaurant",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 143,
+            "geocodes": {
+                "main": {
+                    "latitude": 35.664956,
+                    "longitude": 139.77544
+                },
+                "roof": {
+                    "latitude": 35.664956,
+                    "longitude": 139.77544
+                }
+            },
+            "link": "/v3/places/4c3446c4ed37a593819e6e03",
+            "location": {
+                "address": "築地7丁目16-3",
+                "address_extended": "クラウン築地 1F",
+                "country": "JP",
+                "formatted_address": "築地7丁目16-3, 中央区, Tokyo, 104-0045",
+                "locality": "Tokyo",
+                "postcode": "104-0045",
+                "region": "Tokyo"
+            },
+            "name": "やまだや",
+            "related_places": {},
+            "timezone": "Asia/Tokyo"
+        }
+    ]
+}
