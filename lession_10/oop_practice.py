@@ -37,10 +37,10 @@ def main():
 # 2. Define a class named People with no attributes and mothods. Create a new object of that class.
 print('============================================== 2 ==============================================')
 class People:
-    hair_color = 'red'
+    def __init__(self):
+        pass
 
 peop1 = People()
-print(peop1.hair_color)
 
 # 3. 
 # 3.1 Define a class named Staff with attributes: role, department, salary and a method named show_details() to display all attributes.
@@ -59,7 +59,7 @@ class Staff:
         return self.__salary
 
     def show_detail_staffs(self):
-        print(f'Role: {self.role} Department: {self.get_department()} Salary: {self.get_salary()} ')
+        print(f'Role: {self.role} Department: {self._department} Salary: {self.__salary} ')
 
 staff1 = Staff('Role 1', 'Department 1','2.000.000')
 staff2 = Staff('Role 2', 'Department 2','3.000.000')
@@ -76,7 +76,7 @@ class Student3(Staff):
         super().__init__(role, department, salary)
 
     def show_detail_students(self):
-        print(f'Role: {self.role} Department: {self.get_department()} Salary: {self.get_salary()} Name: {self.name} Age: {self.age} ')
+        print(f'Role: {self.role} Department: {self._department} Salary: {self.get_salary()} Name: {self.name} Age: {self.age} ')
 
 # 3.3 Create a new object of Student then show all attributes of that object.
 print('============================================== 3.3 ==============================================')
