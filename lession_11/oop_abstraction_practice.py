@@ -31,7 +31,7 @@ class Employee(ABC):
         self.last_name = last_name
 
     def get_full_name(self):
-        return print(f'Full Name : {self.firt_name} {self.last_name} ')
+        return self.firt_name +' '+ self.last_name
 
     @abstractmethod
     def get_salary(self):
@@ -44,7 +44,7 @@ class Fulltimeemppoyee(Employee):
         super().__init__(first_name, last_name)
 
     def get_salary(self):
-        return print(f'Sarary - Full Time: {self.salary} VND')
+        return self.salary
 
 
 class Parttimeemployee(Employee):
@@ -54,7 +54,7 @@ class Parttimeemployee(Employee):
         super().__init__(first_name, last_name)
 
     def get_salary(self):
-        return print(f'Sarary - Prat time: {self.worked_hours * self.rate} VND')
+        return self.worked_hours * self.rate
 
 
 class Payroll:
@@ -67,8 +67,8 @@ class Payroll:
             
     def display_employees(self):
         for employee in self.employees:    
-            employee.get_full_name()
-            employee.get_salary()
+            print(f'Full Name : {employee.get_full_name()} ')
+            print(f'Sarary - Full Time: {employee.get_salary()} VND')
             print('-------------------')
 
 
@@ -81,19 +81,19 @@ def main():
     while check == 'y':
         print('Full Time is "f" or "f"----Part Time is "P" or "p"')
         check_full_part_time_empl = input()
-        if check_full_part_time_empl == 'f' or check_full_part_time_empl == 'F':
+        if check_full_part_time_empl.lower() == 'f':
             first_name = input('Firt Name: ')
-            last_name = (input('Last Name: '))
+            last_name = input('Last Name: ')
             salary = '20000000'
-            full_part_time_empl = Fulltimeemppoyee(first_name, last_name, salary)
-            obj_pay_roll.append_employee(full_part_time_empl)
-        elif check_full_part_time_empl == 'p' or check_full_part_time_empl == 'P':
+            full_time_empl = Fulltimeemppoyee(first_name, last_name, salary)
+            obj_pay_roll.append_employee(full_time_empl)
+        elif check_full_part_time_empl.lower() == 'p':
             first_name = input('Firt Name: ')
-            last_name = (input('Last Name: '))
+            last_name = input('Last Name: ')
             worked_hours = int(input('Worked Hours: '))
             rate = 200000
-            full_part_time_empl = Parttimeemployee(first_name, last_name, worked_hours, rate)
-            obj_pay_roll.append_employee(full_part_time_empl)
+            part_time_empl = Parttimeemployee(first_name, last_name, worked_hours, rate)
+            obj_pay_roll.append_employee(part_time_empl)
         else:
             print('you must enter F,f or P,p')
         check = input("Do you want to continue(y/n): ")

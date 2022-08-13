@@ -1,0 +1,26 @@
+{
+  "subjects": {
+    "subject": [
+      {
+        "Subject_ID": "SJ001",
+        "Name": "Python Programming"
+      },
+      {
+        "Subject_ID": "SJ002",
+        "Name": "Java Programming"
+      },
+      {
+        "Subject_ID": "SJ003",
+        "Name": "Database"
+      },
+      {
+        "Subject_ID": "SJ004",
+        "Name": "Data structures and algorithms"
+      },
+      {
+        "Subject_ID": "SJ005",
+        "Name": "Python Programming"
+      }
+    ]
+  }
+}

@@ -6,12 +6,12 @@ def display_json(filename):
     with open(filename,'r') as outfile:
         obj=json.load(outfile)
         
-    v1 = obj['results']
+    v1 = obj['student']
     for v2 in v1:
         print('Distance: ',v2['distance'])
         print('Name: ',v2['name'])
         print('\n')
-#display_json('sample.json')
+display_json('students.json')
 
 # 2. write a program
 print('================================================ 2 =======================================')
@@ -91,7 +91,7 @@ def add_user_from_keyboard(filename):
     with open(filename,'w') as outfile:
         json.dump(user_list, outfile, indent=4)
 
-add_user_from_keyboard('users.json')
+# add_user_from_keyboard('users.json')
 
 
 # 5. Write a program to delete users which have age is a number entered from keyboard in users.json file.

@@ -1,0 +1,366 @@
+{
+  "scores": {
+    "score": [
+      {
+        "Student_ID": "PT0001",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 8,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0001",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 5,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0001",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 2,
+        "Final_Score": 3
+      },
+      {
+        "Student_ID": "PT0002",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 6,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0002",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 8,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0002",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 7,
+        "Final_Score": 4
+      },
+      {
+        "Student_ID": "PT0003",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 8,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0003",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 6,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0003",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 9,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0004",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 8,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0004",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 8,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0004",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 4,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0005",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 6,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0005",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 7,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0005",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 9,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0006",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 8,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0006",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 7,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0006",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 4,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0007",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 9,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0007",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 9,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0007",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 8,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0008",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 7,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0008",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 6,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0008",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 8,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0009",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 9,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0009",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 8,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0009",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 8,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0010",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 5,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0010",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 5,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0010",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 5,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0011",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 3,
+        "Final_Score": 4
+      },
+      {
+        "Student_ID": "PT0011",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 3,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0011",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 6,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0012",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 7,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0012",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 5,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0012",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 6,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0013",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 9,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0013",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 0,
+        "Final_Score": 4
+      },
+      {
+        "Student_ID": "PT0013",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 3,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0014",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 9,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0014",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 7,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0014",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 5,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0015",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 4,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0015",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 6,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0015",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 7,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0016",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 7,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0016",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 6,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0016",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 5,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0017",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 2,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0017",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 7,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0017",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 5,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0018",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 8,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0018",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 9,
+        "Final_Score": 7
+      },
+      {
+        "Student_ID": "PT0018",
+        "Subject_ID": "SJ005",
+        "Midel_Score": 9,
+        "Final_Score": 6
+      },
+      {
+        "Student_ID": "PT0019",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 7,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0019",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 8,
+        "Final_Score": 8
+      },
+      {
+        "Student_ID": "PT0019",
+        "Subject_ID": "SJ004",
+        "Midel_Score": 9,
+        "Final_Score": 9
+      },
+      {
+        "Student_ID": "PT0020",
+        "Subject_ID": "SJ001",
+        "Midel_Score": 6,
+        "Final_Score": 5
+      },
+      {
+        "Student_ID": "PT0020",
+        "Subject_ID": "SJ002",
+        "Midel_Score": 5,
+        "Final_Score": 4
+      },
+      {
+        "Student_ID": "PT0020",
+        "Subject_ID": "SJ003",
+        "Midel_Score": 8,
+        "Final_Score": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "students": {
+    "student": [
+      {
+        "Student_ID": "PT0001",
+        "Name": "Nguyen Van Thang",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Ha Noi",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyenvanthang@gmail.com"
+      },
+      {
+        "Student_ID": "PT0002",
+        "Name": "Nguyen Viet Phuong",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Ha Nam",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyenvietphuong@gmail.com"
+      },
+      {
+        "Student_ID": "PT0003",
+        "Name": "Nguyen Manh Tan",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Ha Tinh",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyenmanhtan@gmail.com"
+      },
+      {
+        "Student_ID": "PT0004",
+        "Name": "Nguyen Viet Hieu",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Thai Binh",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyenviethieu@gmail.com"
+      },
+      {
+        "Student_ID": "PT0005",
+        "Name": "Ngo Manh Hung",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Nam Dinh",
+        "Mobile_Number": "0123456789",
+        "Email": "ngomanhhung@gmail.com"
+      },
+      {
+        "Student_ID": "PT0006",
+        "Name": "Nguyen Tien Su",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Thai Nguyen",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyentiensu@gmail.com"
+      },
+      {
+        "Student_ID": "PT0007",
+        "Name": "Nguyen Viet Hoai Bao",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Ha Noi",
+        "Mobile_Number": "0123456789",
+        "Email": "ngoviethoaibao@gmail.com"
+      },
+      {
+        "Student_ID": "PT0008",
+        "Name": "Pham Manh Ninh",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Hai Duong",
+        "Mobile_Number": "0123456789",
+        "Email": "phammanhninh@gmail.com"
+      },
+      {
+        "Student_ID": "PT0009",
+        "Name": "Tran Anh Tuan",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Hung Yen",
+        "Mobile_Number": "0123456789",
+        "Email": "trananhtuan@gmail.com"
+      },
+      {
+        "Student_ID": "PT0010",
+        "Name": "Nguyen Ngoc Son",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Bac Giang",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyenngocson@gmail.com"
+      },
+      {
+        "Student_ID": "PT0011",
+        "Name": "Pham Van Si",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Nhat Ban",
+        "Mobile_Number": "0123456789",
+        "Email": "phanvansi@gmail.com"
+      },
+      {
+        "Student_ID": "PT0012",
+        "Name": "Phan Tan Sinh",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Han Quoc",
+        "Mobile_Number": "0123456789",
+        "Email": "phantansinh@gmail.com"
+      },
+      {
+        "Student_ID": "PT0013",
+        "Name": "Dang Dinh Nam",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Da Nang",
+        "Mobile_Number": "0123456789",
+        "Email": "dangdinhnam@gmail.com"
+      },
+      {
+        "Student_ID": "PT0014",
+        "Name": "Vo Tan Quynh",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Quang Ngai",
+        "Mobile_Number": "0123456789",
+        "Email": "votanquynh@gmail.com"
+      },
+      {
+        "Student_ID": "PT0015",
+        "Name": "Nguyen Thi Ly",
+        "DoB": "2001-07-09",
+        "Sex": "Female",
+        "Address": "Thai Binh",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyenthily@gmail.com"
+      },
+      {
+        "Student_ID": "PT0016",
+        "Name": "Le Ba Kham",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Hai Phong",
+        "Mobile_Number": "0123456789",
+        "Email": "lebakham@gmail.com"
+      },
+      {
+        "Student_ID": "PT0017",
+        "Name": "Pham Thi Huong Giang",
+        "DoB": "2001-07-09",
+        "Sex": "Female",
+        "Address": "Ha Noi",
+        "Mobile_Number": "0123456789",
+        "Email": "phamthihuongiang@gmail.com"
+      },
+      {
+        "Student_ID": "PT0018",
+        "Name": "Nguyen Nhat Le",
+        "DoB": "2001-07-09",
+        "Sex": "Female",
+        "Address": "Bac Ninh",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyennhatle@gmail.com"
+      },
+      {
+        "Student_ID": "PT0019",
+        "Name": "Nguyen Phuong Thao",
+        "DoB": "2001-07-09",
+        "Sex": "Female",
+        "Address": "Lang Son",
+        "Mobile_Number": "0123456789",
+        "Email": "nguyenphuongthao@gmail.com"
+      },
+      {
+        "Student_ID": "PT0020",
+        "Name": "Bui Hong Dao",
+        "DoB": "2001-07-09",
+        "Sex": "Male",
+        "Address": "Yen Bai",
+        "Mobile_Number": "0123456789",
+        "Email": "buihongdao@gmail.com"
+      }
+    ]
+  }
+}
